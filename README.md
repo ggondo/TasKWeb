@@ -1,4 +1,4 @@
-<center><b>Laboratório de Engenharia de Software - Equipe 5 </center></b>
+<center><b>Laboratório de Engenharia de Software - Equipe 5 </center></b></center></br>
 <center><b>TaskWeb - Gerenciador de atividades com GitHub</b></center>
 
 <b>Integrantes:</b>
